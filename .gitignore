@@ -1,0 +1,11 @@
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.idea/
+.gradle/
+build/
+local.properties
+.DS_Store
